@@ -1,0 +1,36 @@
+.w-4_5 {
+  width: 80%;
+}
+
+.w-20 {
+  width: 80px;
+}
+.h-20 {
+  height: 80px;
+}
+
+.my-8 {
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 16px;
+  box-shadow: 5px 5px 10px 3px lightgrey;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+}
+.justify-center {
+  justify-content: center;
+}
+.items-center {
+  align-items: center;
+}
